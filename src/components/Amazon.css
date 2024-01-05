@@ -1,0 +1,13 @@
+.ama{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(201, 163, 149);
+    gap: 10px;
+}
+.logo{
+    width: 50px;
+    height:40px;
+    border-radius: 10px;
+}
